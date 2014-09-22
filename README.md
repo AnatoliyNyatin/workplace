@@ -7,3 +7,14 @@ mailchimp' => array(
             // (optional - default **false**) whether to enable dev mode or not
             'devMode' => false
         ),
+        
+        
+        
+        
+structure
+
+/extensions/
+---/mailchimp/
+------/src/
+------MailChimpApi.php
+------other mailchimp files
